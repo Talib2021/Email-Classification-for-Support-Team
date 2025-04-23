@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+joblib
+regex
+pydantic
+scikit-learn
+pandas
+pickle
